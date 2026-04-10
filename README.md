@@ -74,5 +74,7 @@ In this project, I did some cleanup and EDA, before diving in and creating a few
     * Bar chat highlighting the zip code with the most intake occurences.
 * Zip Codes for Louisville Metro, KY
     * A return of the geopandas map to give a visual on where zip codes are located.
-* 2024 Median Income by Zip Code (color) and Occurence of Strays (size)
-    * A geopandas map with bubbles, visualizing occurence of strays to median income level.
+* Median Income by Zip Code (color) and Occurence of Strays (size)
+    * Geopandas maps with bubbles, visualizing occurence of strays to median income level per year.
+* Adoption Rates vs Return Rates Per Zip Code
+    * Double bar charts comparing the adoption rates to return rates per zip code per year.
