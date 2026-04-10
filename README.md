@@ -27,11 +27,13 @@ source venv/bin/active
 ```
 
 windows/cmd
-'''cmd
+```cmd
 venv/Scripts/Activate
 ```
 
+
 ### Install modules/libraries 
+
 
 ```bash
 python -m pip install -r requirements.txt
