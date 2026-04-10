@@ -10,8 +10,7 @@ Census API does not require a key as long as you have less than 500 requests in 
 
 ### Setup python environment
 
-```python
-bash
+```bash
 git clone https://github.com/CosmicIdes/LMAS_intake_to_income_analysis.git
 cd LMAS_intake_to_income_analysis
 ```
