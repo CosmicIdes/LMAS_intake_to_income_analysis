@@ -17,28 +17,24 @@ cd LMAS_intake_to_income_analysis
 ```
 
 Python environment:
-```python
-bash
+```bash
 python-m venv venv
 ```
 
 Activate environment:
 mac/linux
-```python
-bash
+```bash
 source venv/bin/active
 ```
 
 windows/cmd
-```python
-cmd
+'''cmd
 venv/Scripts/Activate
 ```
 
 ### Install modules/libraries 
 
-```python
-bash
+```bash
 python -m pip install -r requirements.txt
 ```
 
